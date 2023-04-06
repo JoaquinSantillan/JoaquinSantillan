@@ -5,8 +5,8 @@ I am Joaquin Santillan, a 🚀 Full Stack programmer from 🇦🇷 Argentina wit
 In my free time, I like to experiment with new technologies and programming tools and share my projects through my TikTok channel. On this channel, I teach how to create programming projects and discuss relevant topics about technology and programming.
 
 Find me on...
-🎬 TikTok: https://www.tiktok.com/@joaquin_dev
-🐦 Twitter: https://twitter.com/JoaquinSantil4N
-📷 Instagram: https://www.instagram.com/joaquinsantill4n
-💼 LinkedIn: https://www.linkedin.com/in/joaquin-santillan-1b9919222/
+🎬 TikTok: https://www.tiktok.com/@joaquin_dev<br>
+🐦 Twitter: https://twitter.com/JoaquinSantil4N<br>
+📷 Instagram: https://www.instagram.com/joaquinsantill4n<br>
+💼 LinkedIn: https://www.linkedin.com/in/joaquin-santillan-1b9919222/<br>
 🌐 My Portfolio: Under construction....
